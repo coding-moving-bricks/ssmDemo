@@ -120,7 +120,7 @@
         <javax.ws.rs-api.version>2.0.1</javax.ws.rs-api.version>
         <jersey-spring3.version>2.22.2</jersey-spring3.version>
         <jersey-multipart.version>1.19.3</jersey-multipart.version>
-        <bcprov-jdk15on.version>1.56</bcprov-jdk15on.version>
+        <bcprov-jdk15on.version>1.67</bcprov-jdk15on.version>
         <zxing.version>3.2.0</zxing.version>
         <zxing.javase.version>3.3.0</zxing.javase.version>
         <!-- 插件管理 -->
