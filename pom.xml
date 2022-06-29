@@ -113,7 +113,7 @@
         <solr-solrj.version>4.10.2</solr-solrj.version>
         <noggit.version>0.5</noggit.version>
         <wstx-asl.version>3.2.7</wstx-asl.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <jstl-api.version>1.2-rev-1</jstl-api.version>
         <servlet-api.version>2.5</servlet-api.version>
         <jersey-server.version>2.22.2</jersey-server.version>
